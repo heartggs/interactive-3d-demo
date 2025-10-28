@@ -1,6 +1,4 @@
 import * as THREE from "three";
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 // 1. scene : 화면에서 보여주려는 객체를 담은 공간
